@@ -1,0 +1,19 @@
+---
+title: "IO access analysis report"
+---
+```{r}
+#| label: import chunck
+#| error: false
+#| echo: false
+source('IO_analysis.R')
+```
+
+## Sample Charactaristics:
+
+## knowledge analysis:
+
+## Attitude of the sample:
+
+## Practice of the sample:
+
+## Barriers and methods to improve IO access knowledge:
